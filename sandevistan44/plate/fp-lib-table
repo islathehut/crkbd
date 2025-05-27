@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "/Users/isla/Dev/crkbd-isla/sandevistan42/pcb/footprints/Library.pretty")(options "")(descr ""))
+)
