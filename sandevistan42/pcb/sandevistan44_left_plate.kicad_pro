@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sandevistan42.kicad_pro",
+    "filename": "sandevistan44_left_plate.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -498,6 +498,10 @@
       {
         "netclass": "Default",
         "pattern": "/MOSI"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "row1"
       }
     ]
   },
@@ -509,7 +513,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sandevistan44_left.step",
       "svg": "",
       "vrml": ""
     },

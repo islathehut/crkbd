@@ -465,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sandevistan42_longboioled.kicad_pro",
+    "filename": "sandevistan44_right.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -513,7 +513,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sandevistan44_right.step",
       "svg": "",
       "vrml": ""
     },

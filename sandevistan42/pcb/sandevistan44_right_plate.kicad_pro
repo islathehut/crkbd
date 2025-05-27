@@ -52,13 +52,7 @@
           "min_clearance": 0.508
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "filename": "board_design_settings.json",
@@ -226,12 +220,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false,
       "zones_use_no_outline": true
     },
@@ -476,7 +465,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sandevistan42_longboioled1.kicad_pro",
+    "filename": "sandevistan44_right_plate.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -521,10 +510,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "sandevistan42.net",
-      "plot": "./svg",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "sandevistan44_right.step",
       "svg": "",
       "vrml": ""
     },

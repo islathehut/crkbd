@@ -170,7 +170,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "connector, oled, 1.91, display"
+		(property "ki_keywords" "connector, oled, 1.91, display, new haven"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29592,7 +29592,6 @@
 	(symbol "DFR0664"
 		(pin_names
 			(offset 1.016)
-			(hide yes)
 		)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -29631,7 +29630,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Generic connector, single row, 01x10, script generated (kicad-library-utils/schlib/autogen/connector/)"
+		(property "Description" "Connector for DFR0664 2\" IPS display"
 			(at 0 0 0)
 			(effects
 				(font
@@ -29640,7 +29639,7 @@
 				(hide yes)
 			)
 		)
-		(property "ki_keywords" "connector"
+		(property "ki_keywords" "connector, ips, tft, display, dfrobot"
 			(at 0 0 0)
 			(effects
 				(font
